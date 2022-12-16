@@ -1,0 +1,40 @@
+/*Siempre saldra rojo o azul ya que no se a especificado*/
+/*parrafo de color rojo*/
+
+
+
+p{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+
+p#parrafo_especial{
+    color: green;
+}
+
+
+span{
+    color: rebeccapurple;
+}
+
+p.azul{
+    color: blue;
+}
+
+p.especial1{
+    color: red;
+}
+
+/* Clase universal*/
+
+.verde{
+    color: green;
+}
+
+p#navegador{
+    color: blue;
+}
